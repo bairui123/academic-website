@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 白锐
+title: 白锐(Rui Bai)
 
 # Full name (for SEO)
 first_name: Rui
@@ -25,6 +25,9 @@ interests:
   - Development Economics;
   - Energy Economics and Policy
   - Climate Finance
+  - Green Innovation
+  - Social Network Analysis
+  - Causal Inference
 
 # Education to show in About widget
 education:
