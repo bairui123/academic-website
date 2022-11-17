@@ -82,6 +82,4 @@ highlight_name: true
 
 Rui Bai is a Ph.D. candidate from Xiamen University in China. Her research interests include development economics, energy economics and policy and climate finance. Her several papers have been published by SSCI ABS 2* or JCR-Q1 journals (Finance Research Letters, Research in International Business and Finance, Energy Policy, Journal of Global Information Management, Environmental Impact Assessment Review, Energy) and have got more than 60 citations (google scholar). Welcome to any scholar questions and communication, and thanks for any job recommendations.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
