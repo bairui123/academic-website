@@ -22,7 +22,7 @@ bio: My research interests include development of green finance, green innovatio
 
 # Interests to show in About widget
 interests:
-  - Development Economics;
+  - Development Economics
   - Energy Economics and Policy
   - Climate Finance
   - Green Innovation
