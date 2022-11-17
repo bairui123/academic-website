@@ -1,43 +1,43 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: 白锐
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Rui
+last_name: Bai
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Phd. Candidate of Business Administration
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: China Institute for Studies in Energy Policy, School of management, Xiamen University
+    url: https://sm.xmu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include development of green finance, green innovation and high-quality economic development.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Development Economics;
+  - Energy Economics and Policy
+  - Climate Finance
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD Candidate in Business Administration (Energy Economics and Management)
+      institution: Xiamen University
+      year: 2019-now
+    - course: Master in Business Administration
+      institution: Xiamen University
+      year: 2017-2019
+    - course: Bachelor of Science in Mathematics and Applied Mathematics; Bachelor of Economics
+      institution: Southwestern University of Finance and Economics
+      year: 2013-2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -77,7 +77,7 @@ email: ''
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Rui Bai is a Ph.D. candidate from Xiamen University in China. Her research interests include development economics, energy economics and policy and climate finance. Her several papers have been published by SSCI ABS 2* or JCR-Q1 journals (Finance Research Letters, Research in International Business and Finance, Energy Policy, Journal of Global Information Management, Environmental Impact Assessment Review, Energy) and have got more than 60 citations (google scholar). Welcome to any scholar questions and communication, and thanks for any job recommendations.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
